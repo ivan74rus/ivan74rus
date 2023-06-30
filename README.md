@@ -1,6 +1,7 @@
 ### Hi there 👋
-    
-Ищу работу  Data Science.   
+
+Инженер/рук.проектов в сетях связи.   
+Ищу работу в DS.   
 <!--
 **ivan74rus/ivan74rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
